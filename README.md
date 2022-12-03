@@ -1,1 +1,1 @@
-# Copter учебный проект
+# Copter study
